@@ -1,0 +1,32 @@
+{
+  "name": "@mohammed-thaha/json-to-colorful-table",
+  "version": "1.0.0",
+  "description": "Convert JSON array to a colorful console table.",
+  "main": "index.js",
+  "type": "module",
+  "exports": {
+    ".": "./index.js"
+  },
+  "keywords": [
+    "json",
+    "console",
+    "table",
+    "cli",
+    "chalk",
+    "colors"
+  ],
+  "author": "Mohammed Thaha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mohammed-Thaha/Json-table-display.git"
+  },
+  "homepage": "https://github.com/Mohammed-Thaha/Json-table-display#readme",
+  "bugs": {
+    "url": "https://github.com/Mohammed-Thaha/Json-table-display/issues"
+  },
+  "scripts": {
+    "test": "echo \"No tests yet!\"",
+    "start": "node index.js"
+  }
+}
