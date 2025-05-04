@@ -1,6 +1,6 @@
 {
   "name": "@mohammed-thaha/json-to-colorful-table",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert JSON array to a colorful console table.",
   "main": "index.js",
   "type": "module",
