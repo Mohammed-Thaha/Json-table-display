@@ -28,5 +28,5 @@ export default function printTable(data) {
     }));
   });
 
-  console.log(table.toString());
+  console.table(table.toString());
 }
