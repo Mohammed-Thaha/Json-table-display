@@ -3,12 +3,12 @@ import Table from 'cli-table3';
 
 export default function printTable(data) {
   if (!Array.isArray(data)) {
-    console.log(chalk.red("❌ Input must be an array of objects."));
+    console.log(chalk.red("Input must be an array of objects."));
     return;
   }
 
   if (data.length === 0) {
-    console.log(chalk.yellow("⚠️  Empty data array."));
+    console.log(chalk.yellow("Empty data array."));
     return;
   }
 
